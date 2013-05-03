@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+    <title>My Shows</title>
+    <link rel="stylesheet" type="text/css" href="popup.css">
+    <script src="lib/md5.js"></script>
+    <script src="lib/moment.min.js"></script>
+    <script src="lib/jquery-1.9.1.js"></script>
+    <script src="lib/sprintf.js"></script>
+    <script src="lib/xunleiLixian.js"></script>
+    <script src="lib/show.js"></script>
+    <script src="popup.js"></script>
+</head>
+<body>
+<div id="container">
+    <div class="warning" id="credential">Enter Xunlei credential in [option] page</div>
+    <div class="info" id="login">Xunlei signing in...</div>
+    <div class="warning" id="query">Torrent site not responding</div>
+
+    <ul class="showList">
+    </ul>
+    <div id="newShow">
+        Title:<input type="text" name="showTitle"/>
+        Season:<input type="number" name="showSeason" min="1" max="20">
+        <button id="add">Add</button>
+        <button id="clear">Clear all shows</button>
+    </div>
+</div>
+</body>
+</html>
+

@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+
+  "name": "showGrabber",
+  "description": "Fetching show magnet links from publichd and add to Xunlei Lixian downloader",
+  "version": "1.0.3",
+
+  "icons": { 
+    "16": "images/tv-icon48.png",
+    "48": "images/tv-icon48.png",
+    "128": "images/tv-icon48.png" },
+
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  
+  "browser_action": {
+    "default_icon": "images/tv-icon.png",
+    "default_popup": "popup.html"
+  },
+  "options_page": "options.html",
+  "permissions": [
+    "cookies",
+    "http://*/"
+  ]
+}
