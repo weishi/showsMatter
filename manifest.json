@@ -2,8 +2,8 @@
   "manifest_version": 2,
 
   "name": "showsMatter",
-  "description": "A chrome extension that subscribes to your favorite show and pushes to Xunlei Lixian",
-  "version": "1.0.4",
+  "description": "Subscribes to your favorite show and pushes to Xunlei Lixian",
+  "version": "1.0.5",
 
   "icons": { 
     "16": "images/tv.png",
@@ -11,7 +11,7 @@
     "128": "images/tv.png"
   },
 
-  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+  "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
   
   "browser_action": {
     "default_icon": "images/tv.png",
