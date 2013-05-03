@@ -6,17 +6,20 @@
   "version": "1.0.4",
 
   "icons": { 
-    "16": "images/tv-icon48.png",
-    "48": "images/tv-icon48.png",
-    "128": "images/tv-icon48.png" },
+    "16": "images/tv.png",
+    "48": "images/tv.png",
+    "128": "images/tv.png"
+  },
 
   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
   
   "browser_action": {
-    "default_icon": "images/tv-icon.png",
+    "default_icon": "images/tv.png",
     "default_popup": "popup.html"
   },
+  
   "options_page": "options.html",
+  
   "permissions": [
     "cookies",
     "http://*/"
