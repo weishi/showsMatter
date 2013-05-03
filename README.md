@@ -4,6 +4,14 @@ showsMatter
 A chrome extension that subscribes to your favorite show and pushes to Xunlei Lixian
 
 
+
+Install from Chrome Web Store
+=============
+
+https://chrome.google.com/webstore/detail/showsmatter/cdifnmhlplbackbcjkbjaeninamecfon
+
+
+
 Install from source
 ===========
 
