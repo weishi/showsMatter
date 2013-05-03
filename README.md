@@ -6,14 +6,14 @@ A chrome extension that subscribes to your favorite show and pushes to Xunlei Li
 
 
 Install from Chrome Web Store
-=============
+-----------
 
 https://chrome.google.com/webstore/detail/showsmatter/cdifnmhlplbackbcjkbjaeninamecfon
 
 
 
 Install from source
-===========
+-----------
 
 + Clone the repository: git clone https://github.com/weishi/showsMatter.git 
 + Go to chrome://chrome/extensions/
@@ -23,7 +23,7 @@ Install from source
 
 
 Usage
-==========
+-----------
 
 + Setup xunlei login credentials in the `option` page.
 + Setup your favorite TV show source URL `option` page.
