@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "showsMatter",
-  "description": "A chrome extension that subscribes to your favorite show and pushes to Xunlei Lixian"
+  "description": "A chrome extension that subscribes to your favorite show and pushes to Xunlei Lixian",
   "version": "1.0.4",
 
   "icons": { 

@@ -2,11 +2,13 @@ var options={
     load: function(){
         $('#xlUsername').val(localStorage["xlUsername"]);
         $('#xlPassword').val(localStorage["xlPassword"]);
+        $('#siteURL').val(localStorage["siteURL"]);
     },
 
     save: function(){
         localStorage["xlUsername"]=$('#xlUsername').val();
         localStorage["xlPassword"]=$('#xlPassword').val();
+        localStorage["siteURL"]=$('#siteURL').val();
     }
 };
 

@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', function () {
     $('#add').click(myShows.add);
     $('#clear').click(myShows.clear);
 
+    myShows.init(localStorage["siteURL"]);
     myShows.load();
+
     if(typeof localStorage["xlUsername"] !== 'undefined' && localStorage["xlUsername"]!=""){
         xunleiLixian.login(
             localStorage["xlUsername"],
