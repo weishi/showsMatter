@@ -25,5 +25,5 @@ Install from source
 Usage
 -----------
 
-+ Setup xunlei login credentials in the `option` page.
-+ Setup your favorite TV show source URL `option` page.
++ Setup xunlei login credentials in `option` page.
++ Setup your favorite TV show source URL in `option` page.
