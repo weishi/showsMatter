@@ -87,12 +87,9 @@ span.episodeTitle{
 
 }
 
-span.showhide{
+img.showhide{
 	float: right;
 	cursor: pointer;
-}
-span.showhide:hover{
-	color: #000;
 }
 
 div.warning {
