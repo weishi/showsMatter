@@ -27,3 +27,6 @@ Usage
 
 + Setup xunlei login credentials in `option` page.
 + Setup your favorite TV show source URL in `option` page.
+
+
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/ce5ac99c6dab94dbbcf081ffb232e466 "githalytics.com")](http://githalytics.com/weishi/showsMatter)
