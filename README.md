@@ -29,4 +29,4 @@ Usage
 + Setup your favorite TV show source URL in `option` page.
 
 
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/03b48dcc11dc79d3c1c0ff18d79baabb "githalytics.com")](http://githalytics.com/weishi/showsMatter)
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/358d3c8064acc8898070de21212e894c "githalytics.com")](http://githalytics.com/weishi/showsMatter)
